@@ -29,4 +29,7 @@ Welcome to the Kanda Community repository! This repository is the hub for projec
 
 I am working on this project solo, so responses and updates are provided on a best-effort basis. Thank you for your support and understanding!
 
-Patrick S
+Thanks,
+The Kanda Team
+
+![kanda](./kandakitty.png)
