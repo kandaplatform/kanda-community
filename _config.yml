@@ -1,0 +1,30 @@
+title: Kanda Community
+description: Release notes, documentation, and community Hub for Kanda.
+remote_theme: just-the-docs/just-the-docs
+
+# Enable GitHub Pages
+url: "https://community.kanda.sh"
+
+# Nav Settings
+nav_sort: order
+
+# Theme specific settings
+color_scheme: dark
+aux_links:
+  "GitHub Repository": "https://github.com/kandaplatforms/kanda-community"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2026 Kanda. Built with Just the Docs."
+
+# Exclude unnecessary directories
+exclude:
+  - scripts
+  - node_modules
+  - .gemini
+  - brain
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

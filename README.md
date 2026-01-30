@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Kanda is a lightweight, cost-efficient learning platform for technical training."
+permalink: /
+---
+
 # Kanda
 
 Kanda is a lightweight, cost-efficient learning platform designed for hands-on technical training and assessment. It enables users to create, share, and practice Linux-based scenarios in a browser-based terminal environment.
