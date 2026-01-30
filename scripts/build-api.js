@@ -3,8 +3,8 @@ const path = require('path');
 const matter = require('gray-matter');
 const { marked } = require('marked');
 
-const NOTES_DIR = path.join(__dirname, 'RELEASE_NOTES');
-const DIST_DIR = path.join(__dirname, 'dist-api');
+const NOTES_DIR = path.join(__dirname, '../RELEASE_NOTES');
+const DIST_DIR = path.join(__dirname, '../dist-api');
 
 // Create dist folder
 if (!fs.existsSync(DIST_DIR)) fs.mkdirSync(DIST_DIR);
