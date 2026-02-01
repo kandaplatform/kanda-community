@@ -7,6 +7,12 @@ permalink: /
 ---
 
 # Kanda
+>Welcome to the Kanda Community repository! This repository is the hub for project transparency and user interaction.
+>*   **Release Notes**: Stay up to date with the latest features and fixes.
+>*   **Feedback**: Share your suggestions, report bugs, or request new features using our issue templates.
+>
+>I am working on this project solo, so responses and updates are provided on a best-effort basis. Thank you for your support and understanding!
+
 
 Kanda is a lightweight, cost-efficient learning platform designed for hands-on technical training and assessment. It enables users to create, share, and practice Linux-based scenarios in a browser-based terminal environment.
 
@@ -30,14 +36,10 @@ From a user perspective, Kanda provides an interactive "playground" where you ca
 
 ---
 
-Welcome to the Kanda Community repository! This repository is the hub for project transparency and user interaction.
+If you are enjoying this project and want to support it, consider buying me a coffee!
 
-*   **Release Notes**: Stay up to date with the latest features and fixes.
-*   **Feedback**: Share your suggestions, report bugs, or request new features using our issue templates.
-
-I am working on this project solo, so responses and updates are provided on a best-effort basis. Thank you for your support and understanding!
+<img src="./qr-code.png" alt="Buy Me A Coffee" width="100" height="100"/>
 
 Thanks,
-The Kanda Team
 
-![kanda](./kandakitty.png)
+The Kanda Team
