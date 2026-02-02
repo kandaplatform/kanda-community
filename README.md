@@ -16,6 +16,8 @@ permalink: /
 
 Kanda is a lightweight, cost-efficient learning platform designed for hands-on technical training and assessment. It enables users to create, share, and practice Linux-based scenarios in a browser-based terminal environment.
 
+Check out [Kanda.sh](https://kanda.sh) now!
+
 ## What is Kanda?
 
 From a user perspective, Kanda provides an interactive "playground" where you can test your problem-solving skills or demonstrate technical proficiency. Unlike traditional cloud-based learning environments that require spinning up heavy virtual machines or containers, Kanda uses a **Linux Emulation Engine** with the hopes of making learning handson more accessible as well as more affordable to operate.
