@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Kanda
->Welcome to the Kanda Community repository! This repository is the hub for project transparency and user interaction.
+>Welcome to the [Kanda Community](https://community.kanda.sh) repository! This repository is the hub for project transparency and user interaction.
 >*   **Release Notes**: Stay up to date with the latest features and fixes.
 >*   **Feedback**: Share your suggestions, report bugs, or request new features using our issue templates.
 >
